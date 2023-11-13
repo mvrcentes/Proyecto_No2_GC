@@ -15,7 +15,7 @@
 | 5 | Por agregar una pantalla de bienvenida  | ❌ |  |
 | 10 | si la pantalla permite seleccionar entre multiples niveles | ❌ |  |
 | 10 | Por agregar una pantalla de exito cuando se cumpla una condicion en el nivel | ❌ |  |
-|  |  | Total: 160 |  |
+| - | - | Total: 160 | - |
 
 
 
