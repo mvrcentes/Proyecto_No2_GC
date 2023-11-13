@@ -1,5 +1,24 @@
 # Proyecto_No2_GC
 
+| Puntos | Requisito | Check |  |
+|----|----|----|----|
+| 0 a 50 | Por implementar el proyecto en algún hardware distinto a una computadora tradicional | ✅5️⃣0️⃣ |  |
+| 20 | Soporte para control |  |  |
+| 0 a 30 | Según la estética de su nivel | ✅3️⃣0️⃣ | Tiene reflejos y se ve bonito |
+| 15 | Por mantener al rededor de 15 fps (los fps se deben desplegar) | ✅ | mantengo 240 con M1 Pro |
+| 20 | Por implementar una cámara con movimiento hacia delante y hacia atrás y rotación | ✅ |  |
+| 10 | Por implementar rotación con el mouse (solo horizontal) | ✅ |  |
+| 10 | Por implementar un minimapa que muestre la posición de jugador en el mundo. No puede estar lado a lado del mapa principal, debe estar en una esquina.  | ❌ |  |
+| 5 | Por agregar música de fondo | ✅ |  |
+| 10 | Por agregar efectos de sonido | ✅ |  |
+| 20 | Por agregar al menos 1 animación a alguna sprite en la pantalla | ✅ |  |
+| 5 | Por agregar una pantalla de bienvenida  | ❌ |  |
+| 10 | si la pantalla permite seleccionar entre multiples niveles |  |  |
+| 10 | Por agregar una pantalla de exito cuando se cumpla una condicion en el nivel |  |  |
+
+
+
+
 Este es un simple juego de raycasting en 3D creado con la biblioteca Pygame y NumPy. El objetivo principal de este proyecto es proporcionar una implementación básica de raycasting para crear un entorno 3D simulado.
 
 ## Librerías utilizadas 
