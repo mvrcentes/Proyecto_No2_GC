@@ -2,7 +2,7 @@
 
 | Puntos | Requisito | Check | Comentario |
 |----|----|----|----|
-| 0 a 50 | Por implementar el proyecto en algún hardware distinto a una computadora tradicional | ✅5️⃣0️⃣ |  |
+| 0 a 50 | Por implementar el proyecto en algún hardware distinto a una computadora tradicional | ✅5️⃣0️⃣ | esta en un servidor, quién tiene un servidor en su casa |
 | 20 | Soporte para control | ❌ |  |
 | 0 a 30 | Según la estética de su nivel | ✅3️⃣0️⃣ | Tiene reflejos y se ve bonito |
 | 15 | Por mantener al rededor de 15 fps (los fps se deben desplegar) | ✅ | mantengo 240 con M1 Pro |
@@ -21,6 +21,8 @@
 
 
 Este es un simple juego de raycasting en 3D creado con la biblioteca Pygame y NumPy. El objetivo principal de este proyecto es proporcionar una implementación básica de raycasting para crear un entorno 3D simulado.
+
+### [Video del proyecto](https://youtu.be/ZcoAlZ5Ly7E)
 
 ## Librerías utilizadas 
 | Nombre | Version | Descripción|
